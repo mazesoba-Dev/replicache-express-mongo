@@ -1,6 +1,6 @@
 {
   "name": "replicache-express-mongo",
-  "version": "0.1",
+  "version": "1.0.0",
   "repository": "github:mazesoba-Dev/replicache-express-mongo",
   "license": "Apache-2.0",
   "scripts": {
@@ -49,6 +49,7 @@
   },
   "dependencies": {
     "nanoid": "^4.0.0",
+    "replicache-express-mongo": "^1.0.0",
     "replicache-transaction": "^0.1.1"
   }
 }
